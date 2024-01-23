@@ -15,6 +15,7 @@ promover tal sensação, e constantemente este tópico é abordado nos meios de 
     <li> <b>Veículo de divulgação</b>: Repositório do IFMG (ainda não disponível)</li>
     <li> <b>Citação</b>: SILVA, José L. C.; GOMES, Bruno N.; SILVA, Carlos A.. Desenvolvimento de Aprimoramentos no Software de Gestão da Informação da Guarda Municipal de Sabará (SIGMA). 2022. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Instituto Federal Minas Gerais. </li>
     <li> <b>Link</b>: Repositório do IFMG (ainda não disponível) </li>
+    <li> <b>Observação</b>: Software atualmente utilizado pela Guarda Municipal de Sabará. </li>
   </ul>
 </li>
 
@@ -45,6 +46,7 @@ promover tal sensação, e constantemente este tópico é abordado nos meios de 
     <li> <b>Veículo de divulgação</b>: X Seminário de Iniciação Científica (SIC) do IFMG (não é um congresso nacional/internacional, e sua innclusão foi apenas para complementar o conteúdo do TCC desenvolvido que foi publicado de acordo com o próximo item )</li>
     <li> <b>Citação</b>: SANTOS, M. S. ; SANTOS, R. L. A. ; SILVA, C.A. ; GOMES, B. N. ; MURTA, L. N. . Desenvolvimento de um Aplicativo Móvel para a Segurança Preventiva de Mulheres em Situação de Violência Doméstica. In: II Planeta IFMG, 2022, Bambuí. X Seminário de Iniciação Científica (SIC) do IFMG, 2022. v. 1. </li>
     <li> <b>Link</b>: https://sistemas.bambui.ifmg.edu.br/open_conference/index.php/sic/sic2022/paper/view/627 </li>
+     <li> <b>Observação</b>: Aplicativo demandado pela Guarda Municipal de Sabará.</li>
   </ul>
 </li>
 
