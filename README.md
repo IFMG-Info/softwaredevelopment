@@ -14,7 +14,7 @@ promover tal sensação, e constantemente este tópico é abordado nos meios de 
     <li> <b>Artigo no git</b>: https://github.com/IFMG-Info/softwaredevelopment/blob/main/SIGMA_GuardaMunicipalSabara_JoseLuiz_TCC2022.pdf </li>
     <li> <b>Veículo de divulgação</b>: Repositório do IFMG (ainda não disponível)</li>
     <li> <b>Citação</b>: SILVA, José L. C.; GOMES, Bruno N.; SILVA, Carlos A.. Desenvolvimento de Aprimoramentos no Software de Gestão da Informação da Guarda Municipal de Sabará (SIGMA). 2022. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Instituto Federal Minas Gerais. </li>
-    <li> <b>Link</b>: Repositório do IFMG (ainda não disponível) </li>
+    <li> <b>Link</b>: https://repositorio.ifmg.edu.br/items/55e7f064-10a4-40cb-af07-82b1a270fef0 </li>
     <li> <b>Observação</b>: Software atualmente utilizado pela Guarda Municipal de Sabará. </li>
   </ul>
 </li>
@@ -30,7 +30,7 @@ promover tal sensação, e constantemente este tópico é abordado nos meios de 
     <li> <b>Artigo no git</b>: https://github.com/IFMG-Info/softwaredevelopment/blob/main/APP_Donna_Rayssa_TCC2022.pdf </li>
     <li> <b>Veículo de divulgação</b>: Repositório do IFMG (ainda não disponível)</li>
     <li> <b>Citação</b>: SANTOS, Rayssa L. .; SILVA, C.A.; GOMES, B. N.; MURTA, L. N.. Donna: Um Aplicativo Móvel para Auxiliar na Segurança de Mulheres em Situação de Violência Doméstica. 2022. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Instituto Federal Minas Gerais. </li>
-    <li> <b>Link</b>: Repositório do IFMG (ainda não disponível) </li>
+    <li> <b>Link</b>: https://repositorio.ifmg.edu.br/items/81c23d00-4388-4162-8dc3-b0232509ade3 </li>
   </ul>
 </li>
 
@@ -64,4 +64,19 @@ promover tal sensação, e constantemente este tópico é abordado nos meios de 
     <li> <b>Link</b>: https://www.conic-semesp.org.br/anais/files/2022/trabalho-1000008329.pdf </li>
   </ul>
 </li>
+
+
+<li>
+  <ul>
+    <li> <b>Aluno</b>: Tares Liberato Orlande de Almeida</li>
+    <li> <b>Orientador</b>: Carlos Alexandre Silva</li>
+    <li> <b>Título do trabalho</b>: Recomendação de estratégia de apoio ao comércio de Trading Card Games (TCG) usando Python</li>
+    <li> <p align="Justify"><b>Resumo</b>: O Magic: the Gathering é um dos maiores jogos de cartas colecionáveis com milhões de jogadores espalhados pelo mundo. Seus cartões possuem demandas mercadológicas distintas e chegam a custar milhares de dólares. Com a popularização dos games online e sua profissionalização, é cada vez mais comum a busca por padrões comportamentais movidos por tais jogos. Os sites de lojas e guias de cartas nas quais são obtidas as cartas do jogo Magic: the Gathering não possuem uma recomendação estratégica entre as mesmas e representam uma demanda entre jogadores e lojistas. Desta forma, a proposta deste trabalho versa sobre o desenvolvimento de um sistema de recomendação, capaz de classificar as cartas considerando a frequência de suas aparições bem sucedidas em torneios, ordenando-as em uma tabela hash, usada para contabilizar o pareamento ideal entre as mesmas. A recomendação estratégica proposta para apoio ao comércio de trading card game foi desenvolvida utilizando a linguagem de programação Python, facilitando a busca ativa e direcionada exatamente ao que o jogador necessita, com um custo-benefício qualitativo e de bom desempenho.</p></li>
+    <li> <b>Artigo no git</b>: https://github.com/IFMG-Info/softwaredevelopment/blob/main/Recomendacao_Estrategica_Trading_Card_Games_Tares_TCC2023.pdf </li>
+    <li> <b>Veículo de divulgação</b>: Repositório IFMG</li>
+    <li> <b>Citação</b>: ALMEIDA, T. L. O. ; SILVA, C. A. Recomendação de estratégia de apoio ao comércio de Trading Card Games (TCG) usando Python. In: 22º Congresso Nacional de Iniciação Científica. Trabalho de Conclusão de Curso (Bacharelado em Sistemas de Informação), Instituto Federal de Minas Gerais, Sabará, 2023. </li>
+    <li> <b>Link</b>: https://repositorio.ifmg.edu.br/items/97566885-1550-4b28-8705-6da96f71a465 </li>
+  </ul>
+</li>
+
 </ol>
