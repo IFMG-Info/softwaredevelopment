@@ -108,4 +108,21 @@ promover tal sensação, e constantemente este tópico é abordado nos meios de 
   </ul>
 </li>
 
+<li>
+  <ul>
+    <li> <b>Aluno</b>: Raphael de Sousa Lima</li>
+    <li> <b>Orientador</b>: Carlos Alexandre Silva</li>
+    <li> <b>Coorientador</b>: Bruno Nonato Gomes</li>
+    <li> <b>Colaboradora</b>: Ludmila Nogueira Murta</li>
+    <li> <b>Título do trabalho</b>: Desenvolvimento de um aplicativo para segurança de mulheres em risco de violência doméstica em Sabará - MG</li>
+    <li> <p align="Justify"><b>Resumo</b>: A violência contra a mulher é um grave problema de saúde pública e uma clara violação dos direitos humanos, trazendo inúmeras consequências prejudiciais à saúde física e mental das mulheres afetadas. Estudos indicam que, em escala global, uma em cada três mulheres sofre algum tipo de violência física ou sexual ao longo da vida, revelando a amplitude e a gravidade dessa questão. Diante desse cenário alarmante, foi desenvolvido um aplicativo móvel em parceria com o Centro de Referência de Assistência Social (CRAS) do município de Sabará, no estado de Minas Gerais. O objetivo principal dessa iniciativa é oferecer suporte às mulheres que enfrentam situações de violação ou ameaça de violação de medidas protetivas, ao mesmo tempo em que busca otimizar a gestão dessas ocorrências pelo órgão público municipal. Este aplicativo não só facilita o acesso das vítimas ao apoio necessário, como também aprimora a resposta das autoridades locais, promovendo uma abordagem mais eficaz no combate à violência contra a mulher e na proteção dos seus direitos fundamentais.</p></li>
+    <li> <b>Artigo no git</b>: https://github.com/IFMG-Info/softwaredevelopment/blob/main/Desenvolvimento_App_Seguranca_Mulher_RaphaelSousa_CONIC2024.pdf </li>
+    <li> <b>Veículo de divulgação</b>: 24º Congresso Nacional de Iniciação Científica</li>
+    <li> <b>Citação</b>: LIMA, R. S. ; SILVA, C.A. ; GOMES, B. N. ; MURTA, L. N. Desenvolvimento de um aplicativo para segurança de mulheres em risco de violência doméstica em Sabará - MG. In: 24º Congresso Nacional de Iniciação Científica, 2024. 24º CONIC - SEMESP, 2024. </li>
+    <li> <b>Link</b>: https://www.conic-semesp.org.br/anais/files/2024/trabalho-1000012179.pdf?1757037214 </li>
+     <li> <b>Observação</b>: 2º lugar na categoria "Ciências Exatas e da Terra", subcategoria "Computação e Informática".</li>
+  </ul>
+</li>
+
+
 </ol>
