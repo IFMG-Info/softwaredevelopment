@@ -74,8 +74,21 @@ promover tal sensação, e constantemente este tópico é abordado nos meios de 
     <li> <p align="Justify"><b>Resumo</b>: O Magic: the Gathering é um dos maiores jogos de cartas colecionáveis com milhões de jogadores espalhados pelo mundo. Seus cartões possuem demandas mercadológicas distintas e chegam a custar milhares de dólares. Com a popularização dos games online e sua profissionalização, é cada vez mais comum a busca por padrões comportamentais movidos por tais jogos. Os sites de lojas e guias de cartas nas quais são obtidas as cartas do jogo Magic: the Gathering não possuem uma recomendação estratégica entre as mesmas e representam uma demanda entre jogadores e lojistas. Desta forma, a proposta deste trabalho versa sobre o desenvolvimento de um sistema de recomendação, capaz de classificar as cartas considerando a frequência de suas aparições bem sucedidas em torneios, ordenando-as em uma tabela hash, usada para contabilizar o pareamento ideal entre as mesmas. A recomendação estratégica proposta para apoio ao comércio de trading card game foi desenvolvida utilizando a linguagem de programação Python, facilitando a busca ativa e direcionada exatamente ao que o jogador necessita, com um custo-benefício qualitativo e de bom desempenho.</p></li>
     <li> <b>Artigo no git</b>: https://github.com/IFMG-Info/softwaredevelopment/blob/main/Recomendacao_Estrategica_Trading_Card_Games_Tares_TCC2023.pdf </li>
     <li> <b>Veículo de divulgação</b>: Repositório IFMG</li>
-    <li> <b>Citação</b>: ALMEIDA, T. L. O. ; SILVA, C. A. Recomendação de estratégia de apoio ao comércio de Trading Card Games (TCG) usando Python. In: 22º Congresso Nacional de Iniciação Científica. Trabalho de Conclusão de Curso (Bacharelado em Sistemas de Informação), Instituto Federal de Minas Gerais, Sabará, 2023. </li>
+    <li> <b>Citação</b>: ALMEIDA, T. L. O. ; SILVA, C. A. Recomendação de estratégia de apoio ao comércio de Trading Card Games (TCG) usando Python. Trabalho de Conclusão de Curso (Bacharelado em Sistemas de Informação), Instituto Federal de Minas Gerais, Sabará, 2023. </li>
     <li> <b>Link</b>: https://repositorio.ifmg.edu.br/items/97566885-1550-4b28-8705-6da96f71a465 </li>
+  </ul>
+</li>
+
+<li>
+  <ul>
+    <li> <b>Aluno</b>: Matheus Pires Gouveia dos Santos</li>
+    <li> <b>Orientador</b>: Carlos Alexandre Silva</li>
+    <li> <b>Título do trabalho</b>: PortuJava - Uma ferramenta de auxílio à aprendizagem de programação</li>
+    <li> <p align="Justify"><b>Resumo</b>: O presente trabalho descreve o desenvolvimento da ferramenta PortuJava, criada para auxiliar a aprendizagem de programação por meio da transição entre as linguagens Portugol para Java. Dada a discrepância entre a demanda de profissionais de TI e a quantidade de formandos, há uma crescente necessidade de métodos que facilitem o ensino de programação. O PortuJava permite converter códigos escritos em Portugol para Java, abordando as diferenças de sintaxe e idioma, situação comumente ocorrida a alunos que se deparam com linguagens profissionais. A ferramenta é apresentada como uma página web, desenvolvida com o framework Angular, e utiliza o JDoodle IDE Plugin para visualização e execução dos códigos em Java. Os resultados, obtidos por meio de um questionário, indicam que a ferramenta é bem recebida pelos estudantes, sendo destacada como uma solução prática para adaptação à sintaxe de Java e ao desenvolvimento em IDEs profissionais.</p></li>
+    <li> <b>Artigo no git</b>: https://github.com/IFMG-Info/softwaredevelopment/blob/main/PoruJava_Ferramenta_Auxilio_Programacao_MatheusPires_TCC2024.pdf </li>
+    <li> <b>Veículo de divulgação</b>: Repositório IFMG</li>
+    <li> <b>Citação</b>: SANTOS, M. P. G. ; SILVA, C. A. PortuJava - Uma ferramenta de auxílio à aprendizagem de programação. Trabalho de Conclusão de Curso (Bacharelado em Sistemas de Informação), Instituto Federal de Minas Gerais, Sabará, 2024. </li>
+    <li> <b>Link</b>: https://repositorio.ifmg.edu.br/items/956d3543-de66-4650-972e-b1439e0e7d68 </li>
   </ul>
 </li>
 
