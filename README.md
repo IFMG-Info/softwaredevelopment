@@ -79,6 +79,22 @@ promover tal sensação, e constantemente este tópico é abordado nos meios de 
   </ul>
 </li>
 
+
+<li>
+  <ul>
+    <li> <b>Aluno</b>: Mateus Maia de Oliveira</li>
+    <li> <b>Orientador</b>: Carlos Alexandre Silva</li>
+    <li> <b>Coorientador</b>: Aluízio Barbosa de Oliveira Neto</li>
+    <li> <b>Título do trabalho</b>: Estudo e desenvolvimento de e-commerce para a empresa de peças e acessórios de bicicletas RCBike</li>
+    <li> <p align="Justify"><b>Resumo</b>: Neste trabalho e realizado um estudo e desenvolvimento de um site utilizando ferramentas e tecnologias atuais para a empresa de acessórios de bicicletas RC Bike, tendo em vista a expansão dos negócios e a visibilidade da marca na web. Em virtude da baixa demanda de vendas pela loja física em decorrência da pandemia da covid-19, fez-se necessário promover uma atualização do estabelecimento fazendo uso de aparatos tecnológicos. Desta forma, o presente trabalho discorre sobre características e propriedades do e-commerce e marketing digital, e neste contexto descreve o desenvolvimento realizado na empresa RC Bike para sua transformação tecnológica. Ferramentas como o WordPress (para criação do site) e MySQL (sistema gerenciador de banco de dados) foram utilizadas para o desenvolvimento deste trabalho. Além destas, a ferramenta Google Analytics auxiliou na tarefa de monitoramento e coleta de dados para o estudo de caso. Como resultado do uso desta ferramenta, foi constatado que houve um estreitamento no relacionamento cliente e empresa, principalmente via ligações telefônicas e WhatsApp.</p></li>
+    <li> <b>Artigo no git</b>: https://github.com/IFMG-Info/softwaredevelopment/blob/main/Estudo_Desenvolvimento_Ecommerce_RCBike_MatheusMaia_TCC2023.pdf </li>
+    <li> <b>Veículo de divulgação</b>: Repositório IFMG</li>
+    <li> <b>Citação</b>: OLIVEIRA, M. M. ; SILVA, C. A. Estudo e desenvolvimento de e-commerce para a empresa de peças e acessórios de bicicletas RCBike. Trabalho de Conclusão de Curso (Bacharelado em Sistemas de Informação), Instituto Federal de Minas Gerais, Sabará, 2023. </li>
+    <li> <b>Link</b>: https://repositorio.ifmg.edu.br/items/83e6a02f-8c31-43c3-b632-599c3e91e9f8 </li>
+  </ul>
+</li>
+
+
 <li>
   <ul>
     <li> <b>Aluno</b>: Matheus Pires Gouveia dos Santos</li>
