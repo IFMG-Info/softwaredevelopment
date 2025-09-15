@@ -125,4 +125,20 @@ promover tal sensação, e constantemente este tópico é abordado nos meios de 
 </li>
 
 
+<li>
+  <ul>
+    <li> <b>Aluno</b>: Victor Fernandes Magalhães</li>
+    <li> <b>Orientador</b>: Carlos Alexandre Silva</li>
+    <li> <b>Coorientadores</b>: Diego Oliveira Miranda, Bruno Nonato Gomes, Daniel Bruno Fernandes Conrado</li>
+    <li> <b>Colaborador</b>: Arthur Fernandes Foureaux</li>
+    <li> <b>Título do trabalho</b>: Aplicação de Algoritmos de Aprendizado de Máquina na Manutenção Preditiva: Uma Análise das Técnicas de IA para Predição de Falhas</li>
+    <li> <p align="Justify"><b>Resumo</b>: Com o aumento expressivo do volume de dados operacionais coletados, algoritmos de aprendizado de máquina têm se destacado na identificação da necessidade de manutenção preditiva em equipamentos, principalmente em cenários nos quais a inoperância parcial ou total de algum equipamento é extremamente custosa. Este estudo analisou a viabilidade de três algoritmos, treinando-os e comparando seus desempenhos com dados fictícios que simulam cenários reais. Os resultados apontam um forte potencial para o uso da Floresta Randômica, que alcançou acurácia de 0,99 nos testes realizados, com tempo de treinamento de 0,22 segundo no conjunto de testes. Além disso, esse algoritmo superou os demais em todas as métricas de avaliação consideradas, consolidando-se como a abordagem mais eficaz entre as analisadas. Dessa forma, os resultados obtidos podem auxiliar na escolha de algoritmos mais eficientes para manutenção preditiva em ambientes industriais com dados limitados.</p></li>
+    <li> <b>Artigo no git</b>: https://github.com/IFMG-Info/softwaredevelopment/blob/main/Aplicacao_Algoritmos_ML_Manutencao_Preditiva_VictorFernandes_SBAI2025.pdf </li>
+    <li> <b>Veículo de divulgação</b>: XVII Simpósio Brasileiro de Automação Inteligente (SBAI 2025)</li>
+    <li> <b>Citação</b>: MAGALHAES, V. F. ; FOUREAUX, A. F. ; SILVA, C. A. ; GOMES, B. N. ; CONRADO, D. B. F. ; MIRANDA, D. O. . Aplicação de Algoritmos de Aprendizado de Máquina na Manutenção Preditiva: Uma Análise das Técnicas de IA para Predição de Falhas. In: SBAI 2025, 2025, São João del-Rei. XVII Simpósio Brasileiro de Automação Inteligente. Campinas/SP: Sociedade Brasileira de Automática, 2025. v. 1. p. 1-6. </li>
+    <li> <b>Link</b>: https://repositorio.ifmg.edu.br/server/api/core/bitstreams/586c9032-5161-4786-88ee-1b33fadfe481/content </li>
+  </ul>
+</li>
+
+
 </ol>
