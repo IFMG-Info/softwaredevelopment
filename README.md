@@ -15,6 +15,7 @@ Este repositório reúne produções acadêmicas na área de Desenvolvimento de 
 | 2024 | PortuJava - Uma ferramenta de auxílio à aprendizagem de programação | Matheus Pires Gouveia dos Santos | TCC | Repositório IFMG | [PDF](https://github.com/IFMG-Info/softwaredevelopment/blob/main/PortuJava_Ferramenta_Auxilio_Programacao_MatheusPires_TCC2024.pdf) |
 | 2024 | Desenvolvimento de um aplicativo para segurança de mulheres em risco de violência doméstica em Sabará - MG | Raphael de Sousa Lima | Artigo | CONIC 2024 | [PDF](https://github.com/IFMG-Info/softwaredevelopment/blob/main/Desenvolvimento_App_Seguranca_Mulher_RaphaelSousa_CONIC2024.pdf) |
 | 2025 | PortugIF: Uma Ferramenta Interativa para o Ensino de Estruturas de Programação em Portugol | Igor Lucas Silva Caetano de Oliveira | TCC | Repositório IFMG | [PDF](https://github.com/IFMG-Info/softwaredevelopment/blob/main/PortugIF_Ferramenta_Interativa_Ensino_Programacao_IgorOliveira_TCC2025.pdf) |
+| 2025 | STENCIL: Prova de Conceito de um Software de Gamificação para Cenários Educacionais de Baixa Disponibilidade de Tecnologia | Paulo Moura da Costa Macedo | Artigo completo | CONIC 2025 | [PDF](https://github.com/IFMG-Info/softwaredevelopment/blob/main/STENCIL_Software_Gamificacao_BaixaTecnologia_PauloLivia_CONIC2025.pdf) |
 
 ## Detalhes dos trabalhos
 
@@ -164,6 +165,22 @@ Este repositório reúne produções acadêmicas na área de Desenvolvimento de 
 - **Link externo:** https://repositorio.ifmg.edu.br/items/c7176160-0923-4312-ab35-dbf9d9fb033c
 - **DOI:** Não informado
 - **Observação:** O trabalho também está catalogado no repositório de Tecnologias Educacionais.
+
+---
+
+### 10. STENCIL: Prova de Conceito de um Software de Gamificação para Cenários Educacionais de Baixa Disponibilidade de Tecnologia
+
+- **Autor(a):** Paulo Moura da Costa Macedo
+- **Coautor(es):** Lívia Mendes Soares; Daniel Bruno Fernandes Conrado; Carlos Alexandre Silva
+- **Ano:** 2025
+- **Tipo:** Artigo completo
+- **Resumo:** O trabalho apresenta o STENCIL como prova de conceito de um software de gamificação desenvolvido para cenários educacionais com baixa disponibilidade de tecnologia. A proposta busca oferecer uma solução de baixo custo, com funcionamento adaptado a contextos de infraestrutura limitada, ampliando possibilidades de uso pedagógico de elementos de gamificação em escolas públicas e outros ambientes com restrições tecnológicas.
+- **PDF no repositório:** [Acessar PDF](https://github.com/IFMG-Info/softwaredevelopment/blob/main/STENCIL_Software_Gamificacao_BaixaTecnologia_PauloLivia_CONIC2025.pdf)
+- **Veículo de divulgação:** Congresso Nacional de Iniciação Científica (CONIC-SEMESP), 2025
+- **Citação:** MACEDO, P. M. C.; SOARES, L. M.; CONRADO, D. B. F.; SILVA, C. A. STENCIL: Prova de Conceito de um Software de Gamificação para Cenários Educacionais de Baixa Disponibilidade de Tecnologia. In: Congresso Nacional de Iniciação Científica (CONIC-SEMESP), 2025, São Paulo. Anais do Conic-Semesp. São Paulo: Semesp, 2025.
+- **Link externo:** https://www.conic-semesp.org.br/anais/files/2025/trabalho-1000014348.pdf?1764588986
+- **DOI:** Não informado
+- **Observação:** O trabalho também está catalogado no repositório de Tecnologia na Educação.
 
 ## Organização
 
