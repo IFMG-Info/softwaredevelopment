@@ -14,6 +14,7 @@ Este repositório reúne produções acadêmicas na área de Desenvolvimento de 
 | 2023 | Estudo e desenvolvimento de e-commerce para a empresa de peças e acessórios de bicicletas RCBike | Mateus Maia de Oliveira | TCC | Repositório IFMG | [PDF](https://github.com/IFMG-Info/softwaredevelopment/blob/main/Estudo_Desenvolvimento_Ecommerce_RCBike_MatheusMaia_TCC2023.pdf) |
 | 2024 | PortuJava - Uma ferramenta de auxílio à aprendizagem de programação | Matheus Pires Gouveia dos Santos | TCC | Repositório IFMG | [PDF](https://github.com/IFMG-Info/softwaredevelopment/blob/main/PortuJava_Ferramenta_Auxilio_Programacao_MatheusPires_TCC2024.pdf) |
 | 2024 | Desenvolvimento de um aplicativo para segurança de mulheres em risco de violência doméstica em Sabará - MG | Raphael de Sousa Lima | Artigo | CONIC 2024 | [PDF](https://github.com/IFMG-Info/softwaredevelopment/blob/main/Desenvolvimento_App_Seguranca_Mulher_RaphaelSousa_CONIC2024.pdf) |
+| 2025 | PortugIF: Uma Ferramenta Interativa para o Ensino de Estruturas de Programação em Portugol | Igor Lucas Silva Caetano de Oliveira | TCC | Repositório IFMG | [PDF](https://github.com/IFMG-Info/softwaredevelopment/blob/main/PortugIF_Ferramenta_Interativa_Ensino_Programacao_IgorOliveira_TCC2025.pdf) |
 
 ## Detalhes dos trabalhos
 
@@ -147,6 +148,22 @@ Este repositório reúne produções acadêmicas na área de Desenvolvimento de 
 - **Link externo:** https://www.conic-semesp.org.br/anais/files/2024/trabalho-1000012179.pdf?1757037214
 - **DOI:** Não informado
 - **Observação:** 2º lugar na categoria "Ciências Exatas e da Terra", subcategoria "Computação e Informática".
+
+---
+
+### 9. PortugIF: Uma Ferramenta Interativa para o Ensino de Estruturas de Programação em Portugol
+
+- **Autor(a):** Igor Lucas Silva Caetano de Oliveira
+- **Orientador(a):** Carlos Alexandre Silva
+- **Ano:** 2025
+- **Tipo:** Trabalho de Conclusão de Curso
+- **Resumo:** O trabalho apresenta o desenvolvimento da ferramenta PortugIF, criada para apoiar estudantes iniciantes na aprendizagem de estruturas condicionais e de repetição em Portugol. A solução foi desenvolvida como plataforma online com foco em clareza, simplicidade e interatividade, buscando reduzir dificuldades recorrentes no processo de ensino e aprendizagem de programação. A proposta combina interface acessível, recursos visuais e organização progressiva dos conteúdos, contribuindo para o fortalecimento da formação inicial em lógica de programação.
+- **PDF no repositório:** [Acessar PDF](https://github.com/IFMG-Info/softwaredevelopment/blob/main/PortugIF_Ferramenta_Interativa_Ensino_Programacao_IgorOliveira_TCC2025.pdf)
+- **Veículo de divulgação:** Repositório IFMG
+- **Citação:** OLIVEIRA, Igor Lucas Silva Caetano de; SILVA, Carlos Alexandre. PortugIF: Uma Ferramenta Interativa para o Ensino de Estruturas de Programação em Portugol. Trabalho de Conclusão de Curso (Bacharelado em Sistemas de Informação), Instituto Federal de Minas Gerais, Sabará, 2025.
+- **Link externo:** https://repositorio.ifmg.edu.br/items/c7176160-0923-4312-ab35-dbf9d9fb033c
+- **DOI:** Não informado
+- **Observação:** O trabalho também está catalogado no repositório de Tecnologias Educacionais.
 
 ## Organização
 
